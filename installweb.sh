@@ -1,3 +1,3 @@
 #!/usr/bin/sh
-apt-get update -y && apt-get upgrade -y
+apt-get update
 apt-get install -y nginx
